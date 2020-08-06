@@ -13,6 +13,8 @@ First of all we have the tidy dataset. Which is composed of 180 rows and 82 colu
           6             LAYING
    
  And then we have the following, each measures a different variable and are all numeric. The values represented are the average values of each variable for each activity and each subject.
+ 
+ 
  [3] "tBodyAccMean()-X"              
  [4] "tBodyAccMean()-Y"              
  [5] "tBodyAccMean()-Z"              
