@@ -2,9 +2,9 @@ Regarding this file, I will write  "a code book that describes the variables, th
 
 First of all we have the tidy dataset. Which is composed of 180 rows and 82 columns.
 
- [1] "SubjectID" which can take values from 1-30 (integer variable)
+ "SubjectID" which can take values from 1-30 (integer variable)
  
- [2] "ActivityID" which can take numbers from 1 - 6 and they mean (factor variable):         
+ "ActivityID" which can take numbers from 1 - 6 and they mean (factor variable):         
           1            WALKING
           2   WALKING_UPSTAIRS
           3 WALKING_DOWNSTAIRS
@@ -12,7 +12,7 @@ First of all we have the tidy dataset. Which is composed of 180 rows and 82 colu
           5           STANDING
           6             LAYING
    
- And then we have the following, each measures a different variable and are all numeric.
+ And then we have the following, each measures a different variable and are all numeric. The values represented are the average values of each variable for each activity and each subject.
  [3] "tBodyAccMean()-X"              
  [4] "tBodyAccMean()-Y"              
  [5] "tBodyAccMean()-Z"              
